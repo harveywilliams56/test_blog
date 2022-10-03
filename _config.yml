@@ -39,3 +39,16 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+#
+#
+#
+#   Fields not in default boilerplate but in minima
+#
+author: Harvey Williams
+linkedin_username: harvey-williams-930754171
+
+
+#   Custom fields
+#
+copyright: Plucky Student ltd
+title-logo: /images/title-logo.png
