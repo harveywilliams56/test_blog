@@ -1,0 +1,23 @@
+<?xml version ="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/atom">
+  <link href="http://localhost:4000/test_blog/blog-film-reviews/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="http://localhost:4000/test_blog/blog-film-reviews" rel="alternate" type="text/html"/>
+  <updated>2022-10-03T22:10:01+01:00</updated>
+  <id>http://localhost:4000/test_blog/blog-film-reviews/feed.xml</id>
+  <title>Some title here Film Reviews</title>
+  <subtitle></subtitle>
+  <author>
+	  <name>Harvey Williams</name>
+  </author><entry>
+	  <title>My second film review</title>
+	  <id>http://localhost:4000/test_blog/blog-film-reviews/film-review/2022/10/03/my-second-film-review.html</id>
+	  <link href="http://localhost:4000/test_blog/blog-film-reviews/film-review/2022/10/03/my-second-film-review.html"/>
+	  <updated>2022-10-03T17:11:45+01:00</updated>
+	  <summary>Welcome to my second film review!</summary>
+  </entry><entry>
+	  <title>My first film review</title>
+	  <id>http://localhost:4000/test_blog/blog-film-reviews/film-review/2022/10/03/my-first-film-review.html</id>
+	  <link href="http://localhost:4000/test_blog/blog-film-reviews/film-review/2022/10/03/my-first-film-review.html"/>
+	  <updated>2022-10-03T17:11:45+01:00</updated>
+	  <summary>Welcome to my first film review!</summary>
+  </entry></feed>
